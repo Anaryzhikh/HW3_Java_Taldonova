@@ -37,6 +37,11 @@ public class HW_3 {
         System.out.println(array1);
 
         //Поиск элемента в списке по строке.
+        // Не получилось сделать это задание, прошу помочь с решением.
+        String string = "qwe, qwert, qwerty";
+        List<String> arrayString = new ArrayList<String>(Arrays.asList(string.split(",")));
+        System.out.println(arrayString);
+        System.out.println(arrayString.get("rt"));
 
         //Создать новый список и добавить в него несколько елементов первого списка.
         List array_2 = array1.subList(2, array1.size());
