@@ -72,9 +72,6 @@ public class HW_3 {
         array4.sort(c);
         System.out.println(array4);
 
-        // Сравнить время работы тысячи повторений пункта 3 для ArrayList и LinkedList.
-        // Напомните, пожалуйста, как можно вычислить время работы
-
     }
 }
 
